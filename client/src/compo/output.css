@@ -1,0 +1,27 @@
+.ll{
+    height: 200px;
+    margin: 10px;
+}
+
+.col-6{
+    display: flex;
+    flex-direction: row;
+}
+
+.card{
+    display: flex;
+    flex-wrap: wrap;
+}
+.k2{
+    text-align: center;
+}
+
+.op{
+    margin: 30px;
+    border: 5px solid #2d2d2d;
+
+   ;
+}
+.ko{
+    background: #cea2d6;
+}
